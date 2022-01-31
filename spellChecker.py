@@ -7,5 +7,5 @@ while t:
     b = TextBlob(a)
     print(f"Corrected text is {b.correct()}")
 
-    t = int(input("Try again? 1:0"))
+    t = int(input("Try again son? 1:0"))
 
